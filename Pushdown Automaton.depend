@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555690955 source:c:\users\claudia\desktop\t3lfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1555622371 source:c:\users\claudia\desktop\t3lfa\afis.out.c
+
